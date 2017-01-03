@@ -97,6 +97,6 @@
   "dependencies": {
     "generatorics": "^1.0.8",
     "graphql-relay": "^0.4.3",
-    "nesthydrationjs": "^0.4.0"
+    "nesthydrationjs": "^1.0.0"
   }
 }
